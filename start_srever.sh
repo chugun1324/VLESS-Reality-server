@@ -66,3 +66,4 @@ echo "$LINK" | tee /root/vless.txt
 
 echo "Saved: /root/vless.txt"
 systemctl status xray --no-pager -l
+
